@@ -21,6 +21,6 @@ public class BaseClass
 	driver.get(Utility.readDataFromPropertyFile("url"));
 	Utility.implicitWait(1000, driver);
 	Reporter.log("launching browser", true);
-	
+	//comment 1
 	}
 }
