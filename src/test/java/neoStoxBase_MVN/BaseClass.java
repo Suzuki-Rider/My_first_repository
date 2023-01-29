@@ -23,6 +23,6 @@ public class BaseClass
 	Reporter.log("launching browser", true);
 	//comment 1
 	
-	
+	//comment 2
 	}
 }
