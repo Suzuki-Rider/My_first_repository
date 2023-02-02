@@ -30,6 +30,6 @@ public class NeoStoxNextPage
 			Reporter.log("Clicking on Mobile sign in button", true);
 		}
 		
-		
+		//comment 
 }
 
