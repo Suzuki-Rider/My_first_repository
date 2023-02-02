@@ -29,4 +29,7 @@ public class NeoStoxNextPage
 			mobileNoClickButton.click();
 			Reporter.log("Clicking on Mobile sign in button", true);
 		}
+		
+		
 }
+
